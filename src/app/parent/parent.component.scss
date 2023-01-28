@@ -1,0 +1,19 @@
+.parentcontainer{
+    width: 80%;
+    height: 90vh;
+   
+    padding: 20px;
+    background-color: red;
+    border-radius: 20px;
+}
+
+.childcontainer{
+    width: 80%;
+    height: 70%;
+   
+    padding: 20px;
+    background-color: lightblue;
+    border-radius: 20px;
+    display: flex;
+    margin: 10px;
+}
